@@ -1,0 +1,24 @@
+{
+  "name": "git-intro",
+  "version": "1.0.0",
+  "description": "- Makes it easier to keep track of your files/updates - Makes it easier to work together - Makes it easier to share code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlaevelize/gitIntro-57.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlaevelize/gitIntro-57/issues"
+  },
+  "homepage": "https://github.com/karlaevelize/gitIntro-57#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "express": "^4.17.3"
+  }
+}
